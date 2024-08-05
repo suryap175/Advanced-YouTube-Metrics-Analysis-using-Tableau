@@ -21,11 +21,11 @@ This project focused on collecting, aggregating, and analyzing various YouTube m
 3. To perform advanced data analysis to uncover actionable insights.
 4. To develop interactive dashboards for dynamic analysis and strategic decision-making.
    
-#### Results
+## Results
 1. Successfully aggregated and wrangled YouTube metrics data, ensuring high accuracy and completeness.
 2. Uncovered significant trends and patterns through advanced data analysis.
 3. Developed interactive dashboards in Tableau, enabling dynamic analysis and supporting strategic decision-making.
 
-#### Conclusion
+## Conclusion
 1. This project effectively leveraged advanced data processing techniques and interactive visualizations to analyze YouTube metrics.
 2. The insights derived from the analysis facilitated strategic decision-making and enhanced understanding of trends and patterns.
